@@ -1,3 +1,14 @@
+# TEAM NAME
+This is definitely Colin's Team
+
+## Names
+- Gretchen
+- Mark
+- Ian
+
+## Team Flare
+🦩
+
 # How To:
 - **Clone this repo**
 - **Create a branch from main `my-team-name`**
