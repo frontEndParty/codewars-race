@@ -1,9 +1,3 @@
-# Contributors:
-
-- Brian Tucker
-- Persis Randolph
-- Carl Fink
-
 # How To:
 
 - **Clone this repo**
